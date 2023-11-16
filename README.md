@@ -1,3 +1,3 @@
 # sesamestreet
-Collection of various language models implemented from scratch
-1. cookiemonster - makemore ( bigrams based language model )
+Collection of language models implemented from scratch
+1. cookiemonster - bigrams language model with typical bigram statistics and neural network approch
