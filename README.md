@@ -1,6 +1,6 @@
 # sesamestreet
 
-![sesamestreet](sesamestreet.png)
+![sesamestreet](sesamestreet.jpg)
 
 Collection of language models implemented from scratch
 
